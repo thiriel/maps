@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>fancyBox - Fancy jQuery Lightbox Alternative | Demonstration</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="../lib/jquery-1.7.2.js"></script>
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="../source/jquery.fancybox.js?v=2.0.6"></script>
+	<link rel="stylesheet" type="text/css" href="../source/jquery.fancybox.css?v=2.0.6" media="screen" />
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+					
+
+	});
+
+
+function fancybox(){
+
+$(".fancybox-effects-d").fancybox({
+				padding: 0,
+				width: 500,
+				height: 100,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+				
+					href : 'http://localhost:8080/ibi_apps/WFServlet?IBIF_ex=pbimb002r&PREGION=Metro',
+					type : 'iframe',
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+
+}
+
+
+
+	
+	</script>
+
+</head>
+<body>
+
+
+	<center><a  class="fancybox-effects-d" href="#" title="" onclick="fancybox();">Region</a></center>
+
+</body>
+</html>

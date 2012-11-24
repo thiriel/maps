@@ -1,0 +1,1731 @@
+# This file is distributed under the same license as the Django package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-15 13:19-0400\n"
+"PO-Revision-Date: 2011-03-08 13:02+0000\n"
+"Last-Translator: jonklo <jonklo@gmail.com>\n"
+"Language-Team: Norwegian Bokm√•l <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ar/forms.py:28
+msgid "Enter a postal code in the format NNNN or ANNNNAAA."
+msgstr "Oppgi et postnummer p√• formen NNNN eller ANNNNAAA."
+
+#: ar/forms.py:50 br/forms.py:92 br/forms.py:131 pe/forms.py:24 pe/forms.py:52
+msgid "This field requires only numbers."
+msgstr "Feltet krever kun tall."
+
+#: ar/forms.py:51
+msgid "This field requires 7 or 8 digits."
+msgstr "Feltet krever 7 eller 8 siffer."
+
+#: ar/forms.py:80
+msgid "Enter a valid CUIT in XX-XXXXXXXX-X or XXXXXXXXXXXX format."
+msgstr "Oppgi gyldig CUIT p√• formen XX-XXXXXXXX-X or XXXXXXXXXXXX."
+
+#: ar/forms.py:81
+msgid "Invalid CUIT."
+msgstr "Ugyldig CUIT."
+
+#: at/at_states.py:5
+msgid "Burgenland"
+msgstr "Burgenland"
+
+#: at/at_states.py:6
+msgid "Carinthia"
+msgstr "Carinthia"
+
+#: at/at_states.py:7
+msgid "Lower Austria"
+msgstr "Nieder√∂sterreich"
+
+#: at/at_states.py:8
+msgid "Upper Austria"
+msgstr "Ober√∂sterreich"
+
+#: at/at_states.py:9
+msgid "Salzburg"
+msgstr "Salzburg"
+
+#: at/at_states.py:10
+msgid "Styria"
+msgstr "Steiermark"
+
+#: at/at_states.py:11
+msgid "Tyrol"
+msgstr "Tirol"
+
+#: at/at_states.py:12
+msgid "Vorarlberg"
+msgstr "Vorarlberg"
+
+#: at/at_states.py:13
+msgid "Vienna"
+msgstr "Wien"
+
+#: at/forms.py:22 ch/forms.py:17 no/forms.py:13
+msgid "Enter a zip code in the format XXXX."
+msgstr "Oppgi et postnummer p√• formen XXXX."
+
+#: at/forms.py:50
+msgid "Enter a valid Austrian Social Security Number in XXXX XXXXXX format."
+msgstr "Oppgi et gyldig √òsterrisk personnummer p√• formen XXXX XXXXXX."
+
+#: au/forms.py:17
+msgid "Enter a 4 digit post code."
+msgstr "Oppgi et firesifret postnummer."
+
+#: be/be_provinces.py:5
+msgid "Antwerp"
+msgstr "Antwerpen"
+
+#: be/be_provinces.py:6
+msgid "Brussels"
+msgstr "Brussel"
+
+#: be/be_provinces.py:7
+msgid "East Flanders"
+msgstr "√òst-Flandern"
+
+#: be/be_provinces.py:8
+msgid "Flemish Brabant"
+msgstr "Flamsk Brabant"
+
+#: be/be_provinces.py:9
+msgid "Hainaut"
+msgstr "Hainaut"
+
+#: be/be_provinces.py:10
+msgid "Liege"
+msgstr "Li√®ge"
+
+#: be/be_provinces.py:11 nl/nl_provinces.py:9
+msgid "Limburg"
+msgstr "Limburg"
+
+#: be/be_provinces.py:12
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: be/be_provinces.py:13
+msgid "Namur"
+msgstr "Namur"
+
+#: be/be_provinces.py:14
+msgid "Walloon Brabant"
+msgstr "Vallonsk Brabant"
+
+#: be/be_provinces.py:15
+msgid "West Flanders"
+msgstr "Vest-Flandern"
+
+#: be/be_regions.py:5
+msgid "Brussels Capital Region"
+msgstr "Brussel-regionen"
+
+#: be/be_regions.py:6
+msgid "Flemish Region"
+msgstr "Flamsk-regionen"
+
+#: be/be_regions.py:7
+msgid "Wallonia"
+msgstr "Vallonia"
+
+#: be/forms.py:23
+msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
+msgstr "Oppgi et gyldig postnummer p√• formen 1XXX - 9XXX."
+
+#: be/forms.py:46
+msgid ""
+"Enter a valid phone number in one of the formats 0x xxx xx xx, 0xx xx xx xx, "
+"04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, 0xx."
+"xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+msgstr ""
+"Oppgi et gyldig telefonnummer i et av f√∏lgende formater: 0x xxx xx xx, 0xx "
+"xx xx xx, 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx."
+"xx.xx, 0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+
+#: br/forms.py:17
+msgid "Enter a zip code in the format XXXXX-XXX."
+msgstr "Oppgi et postnummer p√• formen XXXXX-XXX."
+
+#: br/forms.py:26
+msgid "Phone numbers must be in XX-XXXX-XXXX format."
+msgstr "Telefonnummeret m√• v√¶re p√• formen XX-XXXX-XXXX."
+
+#: br/forms.py:54
+msgid ""
+"Select a valid brazilian state. That state is not one of the available "
+"states."
+msgstr ""
+"Velg en gyldig brasiliansk stat. Den staten er ikke et av de tilgjengelige "
+"valgene."
+
+#: br/forms.py:90
+msgid "Invalid CPF number."
+msgstr "Ugyldig CPF-nummer."
+
+#: br/forms.py:91
+msgid "This field requires at most 11 digits or 14 characters."
+msgstr "Feltet krever maksimum 11 eller 14 siffer."
+
+#: br/forms.py:130
+msgid "Invalid CNPJ number."
+msgstr "Ugyldig CNPJ-nummer."
+
+#: br/forms.py:132
+msgid "This field requires at least 14 digits"
+msgstr "Feltet krever minst 14 siffer."
+
+#: ca/forms.py:25
+msgid "Enter a postal code in the format XXX XXX."
+msgstr "Oppgi et postnummer p√• formen XXX XXX."
+
+#: ca/forms.py:96
+msgid "Enter a valid Canadian Social Insurance number in XXX-XXX-XXX format."
+msgstr "Oppgi et gyldig kanadisk personnummer p√• formen XXX-XXX-XXX."
+
+#: ch/ch_states.py:5
+msgid "Aargau"
+msgstr "Aargau"
+
+#: ch/ch_states.py:6
+msgid "Appenzell Innerrhoden"
+msgstr "Appenzell Innerrhoden"
+
+#: ch/ch_states.py:7
+msgid "Appenzell Ausserrhoden"
+msgstr "Appenzell Ausserrhoden"
+
+#: ch/ch_states.py:8
+msgid "Basel-Stadt"
+msgstr "Basel-Stadt"
+
+#: ch/ch_states.py:9
+msgid "Basel-Land"
+msgstr "Basel-Landschaft"
+
+#: ch/ch_states.py:10
+msgid "Berne"
+msgstr "Bern"
+
+#: ch/ch_states.py:11
+msgid "Fribourg"
+msgstr "Fribourg"
+
+#: ch/ch_states.py:12
+msgid "Geneva"
+msgstr "Gen√®ve"
+
+#: ch/ch_states.py:13
+msgid "Glarus"
+msgstr "Glarus"
+
+#: ch/ch_states.py:14
+msgid "Graubuenden"
+msgstr "Graub√ºnden"
+
+#: ch/ch_states.py:15
+msgid "Jura"
+msgstr "Jura"
+
+#: ch/ch_states.py:16
+msgid "Lucerne"
+msgstr "Luzern"
+
+#: ch/ch_states.py:17
+msgid "Neuchatel"
+msgstr "Neuch√¢tel"
+
+#: ch/ch_states.py:18
+msgid "Nidwalden"
+msgstr "Nidwalden"
+
+#: ch/ch_states.py:19
+msgid "Obwalden"
+msgstr "Obwalden"
+
+#: ch/ch_states.py:20
+msgid "Schaffhausen"
+msgstr "Schaffhausen"
+
+#: ch/ch_states.py:21
+msgid "Schwyz"
+msgstr "Schwyz"
+
+#: ch/ch_states.py:22
+msgid "Solothurn"
+msgstr "Solothurn"
+
+#: ch/ch_states.py:23
+msgid "St. Gallen"
+msgstr "St. Gallen"
+
+#: ch/ch_states.py:24
+msgid "Thurgau"
+msgstr "Thurgau"
+
+#: ch/ch_states.py:25
+msgid "Ticino"
+msgstr "Ticino"
+
+#: ch/ch_states.py:26
+msgid "Uri"
+msgstr "Uri"
+
+#: ch/ch_states.py:27
+msgid "Valais"
+msgstr "Wallis"
+
+#: ch/ch_states.py:28
+msgid "Vaud"
+msgstr "Vaud"
+
+#: ch/ch_states.py:29
+msgid "Zug"
+msgstr "Zug"
+
+#: ch/ch_states.py:30
+msgid "Zurich"
+msgstr "Z√ºrich"
+
+#: ch/forms.py:65
+msgid ""
+"Enter a valid Swiss identity or passport card number in X1234567<0 or "
+"1234567890 format."
+msgstr ""
+"Oppgi et gyldig sveitsisk identitets- eller passnummer p√• formen X1234567<0 "
+"eller 1234567890."
+
+#: cl/forms.py:30
+msgid "Enter a valid Chilean RUT."
+msgstr "Oppgi et gyldig chilensk RUT."
+
+#: cl/forms.py:31
+msgid "Enter a valid Chilean RUT. The format is XX.XXX.XXX-X."
+msgstr "Oppgi et gyldig chilensk RUT p√• formen XX.XXX.XXX-X."
+
+#: cl/forms.py:32
+msgid "The Chilean RUT is not valid."
+msgstr "Den chilenske RUT er ugyldig."
+
+#: cz/cz_regions.py:8
+msgid "Prague"
+msgstr "Praha"
+
+#: cz/cz_regions.py:9
+msgid "Central Bohemian Region"
+msgstr "Sentralb√∏hmen region"
+
+#: cz/cz_regions.py:10
+msgid "South Bohemian Region"
+msgstr "Sydb√∏hmen region"
+
+#: cz/cz_regions.py:11
+msgid "Pilsen Region"
+msgstr "Plze≈à region"
+
+#: cz/cz_regions.py:12
+msgid "Carlsbad Region"
+msgstr "Karlovy Vary region"
+
+#: cz/cz_regions.py:13
+msgid "Usti Region"
+msgstr "√öst√≠ nad Labem region"
+
+#: cz/cz_regions.py:14
+msgid "Liberec Region"
+msgstr "Liberec region"
+
+#: cz/cz_regions.py:15
+msgid "Hradec Region"
+msgstr "Hradec Kr√°lov√© region"
+
+#: cz/cz_regions.py:16
+msgid "Pardubice Region"
+msgstr "Pardubice region"
+
+#: cz/cz_regions.py:17
+msgid "Vysocina Region"
+msgstr "≈Ωilina-regionen"
+
+#: cz/cz_regions.py:18
+msgid "South Moravian Region"
+msgstr "Sydm√§hriske region"
+
+#: cz/cz_regions.py:19
+msgid "Olomouc Region"
+msgstr "Olomouc region"
+
+#: cz/cz_regions.py:20
+msgid "Zlin Region"
+msgstr "Zl√≠n region"
+
+#: cz/cz_regions.py:21
+msgid "Moravian-Silesian Region"
+msgstr "M√§hren-Schlesien region"
+
+#: cz/forms.py:28 sk/forms.py:30
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr "Oppgi et postnummer p√• formen XXXXX or XXX XX."
+
+#: cz/forms.py:48
+msgid "Enter a birth number in the format XXXXXX/XXXX or XXXXXXXXXX."
+msgstr "Oppgi et f√∏dselsnummer p√• formen XXXXXX/XXXX eller XXXXXXXXXX."
+
+#: cz/forms.py:49
+msgid "Invalid optional parameter Gender, valid values are 'f' and 'm'"
+msgstr "Ugyldig valgfritt parameter 'Gender', gyldige verdier er 'f' and 'm'"
+
+#: cz/forms.py:50
+msgid "Enter a valid birth number."
+msgstr "Oppgi et gyldig f√∏dselsnummer."
+
+#: cz/forms.py:111
+msgid "Enter a valid IC number."
+msgstr "Oppgi et gyldig IC-nummer."
+
+#: de/de_states.py:5
+msgid "Baden-Wuerttemberg"
+msgstr "Baden-W√ºrttemberg"
+
+#: de/de_states.py:6
+msgid "Bavaria"
+msgstr "Bayern"
+
+#: de/de_states.py:7
+msgid "Berlin"
+msgstr "Berlin"
+
+#: de/de_states.py:8
+msgid "Brandenburg"
+msgstr "Brandenburg"
+
+#: de/de_states.py:9
+msgid "Bremen"
+msgstr "Bremen"
+
+#: de/de_states.py:10
+msgid "Hamburg"
+msgstr "Hamburg"
+
+#: de/de_states.py:11
+msgid "Hessen"
+msgstr "Hessen"
+
+#: de/de_states.py:12
+msgid "Mecklenburg-Western Pomerania"
+msgstr "Mecklenburg-Vorpommern"
+
+#: de/de_states.py:13
+msgid "Lower Saxony"
+msgstr "Niedersachsen"
+
+#: de/de_states.py:14
+msgid "North Rhine-Westphalia"
+msgstr "Nordrhein-Westfalen"
+
+#: de/de_states.py:15
+msgid "Rhineland-Palatinate"
+msgstr "Rheinland-Pfalz"
+
+#: de/de_states.py:16
+msgid "Saarland"
+msgstr "Saarland"
+
+#: de/de_states.py:17
+msgid "Saxony"
+msgstr "Sachsen"
+
+#: de/de_states.py:18
+msgid "Saxony-Anhalt"
+msgstr "Sachsen-Anhalt"
+
+#: de/de_states.py:19
+msgid "Schleswig-Holstein"
+msgstr "Schleswig-Holstein"
+
+#: de/de_states.py:20
+msgid "Thuringia"
+msgstr "Th√ºringen"
+
+#: de/forms.py:15 fi/forms.py:13 fr/forms.py:16
+msgid "Enter a zip code in the format XXXXX."
+msgstr "Oppgi et postnummer p√• formen XXXXX."
+
+#: de/forms.py:42
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr ""
+"Oppgi et gyldig tysk identitetsnummer p√• formen XXXXXXXXXXX-XXXXXXX-XXXXXXX-"
+"X."
+
+#: es/es_provinces.py:5
+msgid "Arava"
+msgstr "√Ålava"
+
+#: es/es_provinces.py:6
+msgid "Albacete"
+msgstr "Albacete"
+
+#: es/es_provinces.py:7
+msgid "Alacant"
+msgstr "Alicante"
+
+#: es/es_provinces.py:8
+msgid "Almeria"
+msgstr "Almer√≠a"
+
+#: es/es_provinces.py:9
+msgid "Avila"
+msgstr "√Åvila"
+
+#: es/es_provinces.py:10
+msgid "Badajoz"
+msgstr "Badajoz"
+
+#: es/es_provinces.py:11
+msgid "Illes Balears"
+msgstr "Balearene"
+
+#: es/es_provinces.py:12
+msgid "Barcelona"
+msgstr "Barcelona"
+
+#: es/es_provinces.py:13
+msgid "Burgos"
+msgstr "Burgos"
+
+#: es/es_provinces.py:14
+msgid "Caceres"
+msgstr "C√°ceres"
+
+#: es/es_provinces.py:15
+msgid "Cadiz"
+msgstr "C√°diz"
+
+#: es/es_provinces.py:16
+msgid "Castello"
+msgstr "Castell√≥n"
+
+#: es/es_provinces.py:17
+msgid "Ciudad Real"
+msgstr "Ciudad Real"
+
+#: es/es_provinces.py:18
+msgid "Cordoba"
+msgstr "C√≥rdoba"
+
+#: es/es_provinces.py:19
+msgid "A Coruna"
+msgstr "A Coruna"
+
+#: es/es_provinces.py:20
+msgid "Cuenca"
+msgstr "Cuenca"
+
+#: es/es_provinces.py:21
+msgid "Girona"
+msgstr "Girona"
+
+#: es/es_provinces.py:22
+msgid "Granada"
+msgstr "Granada"
+
+#: es/es_provinces.py:23
+msgid "Guadalajara"
+msgstr "Guadalajara"
+
+#: es/es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr "Gipuzkoa"
+
+#: es/es_provinces.py:25
+msgid "Huelva"
+msgstr "Huelva"
+
+#: es/es_provinces.py:26
+msgid "Huesca"
+msgstr "Huesca"
+
+#: es/es_provinces.py:27
+msgid "Jaen"
+msgstr "Ja√©n"
+
+#: es/es_provinces.py:28
+msgid "Leon"
+msgstr "Le√≥n"
+
+#: es/es_provinces.py:29
+msgid "Lleida"
+msgstr "Lleida"
+
+#: es/es_provinces.py:30 es/es_regions.py:17
+msgid "La Rioja"
+msgstr "La Rioja"
+
+#: es/es_provinces.py:31
+msgid "Lugo"
+msgstr "Lugo"
+
+#: es/es_provinces.py:32 es/es_regions.py:18
+msgid "Madrid"
+msgstr "Madrid"
+
+#: es/es_provinces.py:33
+msgid "Malaga"
+msgstr "M√°laga"
+
+#: es/es_provinces.py:34
+msgid "Murcia"
+msgstr "Murcia"
+
+#: es/es_provinces.py:35
+msgid "Navarre"
+msgstr "Navarra"
+
+#: es/es_provinces.py:36
+msgid "Ourense"
+msgstr "Ourense"
+
+#: es/es_provinces.py:37
+msgid "Asturias"
+msgstr "Asturias"
+
+#: es/es_provinces.py:38
+msgid "Palencia"
+msgstr "Palencia"
+
+#: es/es_provinces.py:39
+msgid "Las Palmas"
+msgstr "Las Palmas"
+
+#: es/es_provinces.py:40
+msgid "Pontevedra"
+msgstr "Pontevedra"
+
+#: es/es_provinces.py:41
+msgid "Salamanca"
+msgstr "Salamanca"
+
+#: es/es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr "Santa Cruz de Tenerife"
+
+#: es/es_provinces.py:43 es/es_regions.py:11
+msgid "Cantabria"
+msgstr "Cantabria"
+
+#: es/es_provinces.py:44
+msgid "Segovia"
+msgstr "Segovia"
+
+#: es/es_provinces.py:45
+msgid "Seville"
+msgstr "Sevilla"
+
+#: es/es_provinces.py:46
+msgid "Soria"
+msgstr "Soria"
+
+#: es/es_provinces.py:47
+msgid "Tarragona"
+msgstr "Tarragona"
+
+#: es/es_provinces.py:48
+msgid "Teruel"
+msgstr "Teruel"
+
+#: es/es_provinces.py:49
+msgid "Toledo"
+msgstr "Toledo"
+
+#: es/es_provinces.py:50
+msgid "Valencia"
+msgstr "Valencia"
+
+#: es/es_provinces.py:51
+msgid "Valladolid"
+msgstr "Valladolid"
+
+#: es/es_provinces.py:52
+msgid "Bizkaia"
+msgstr "Bizkaia"
+
+#: es/es_provinces.py:53
+msgid "Zamora"
+msgstr "Zamora"
+
+#: es/es_provinces.py:54
+msgid "Zaragoza"
+msgstr "Zaragoza"
+
+#: es/es_provinces.py:55
+msgid "Ceuta"
+msgstr "Ceuta"
+
+#: es/es_provinces.py:56
+msgid "Melilla"
+msgstr "Melilla"
+
+#: es/es_regions.py:5
+msgid "Andalusia"
+msgstr "Andaluc√≠a"
+
+#: es/es_regions.py:6
+msgid "Aragon"
+msgstr "Arag√≥n"
+
+#: es/es_regions.py:7
+msgid "Principality of Asturias"
+msgstr "Asturias"
+
+#: es/es_regions.py:8
+msgid "Balearic Islands"
+msgstr "Balearene"
+
+#: es/es_regions.py:9
+msgid "Basque Country"
+msgstr "Baskerland"
+
+#: es/es_regions.py:10
+msgid "Canary Islands"
+msgstr "Kanari√∏yene"
+
+#: es/es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr "Castilla-La Mancha"
+
+#: es/es_regions.py:13
+msgid "Castile and Leon"
+msgstr "Castilla y Le√≥n"
+
+#: es/es_regions.py:14
+msgid "Catalonia"
+msgstr "Catalonia"
+
+#: es/es_regions.py:15
+msgid "Extremadura"
+msgstr "Extremadura"
+
+#: es/es_regions.py:16
+msgid "Galicia"
+msgstr "Galicia"
+
+#: es/es_regions.py:19
+msgid "Region of Murcia"
+msgstr "Murcia"
+
+#: es/es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr "Navarra"
+
+#: es/es_regions.py:21
+msgid "Valencian Community"
+msgstr "Valenciana"
+
+#: es/forms.py:20
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr "Oppgi et gyldig postnummer p√• formen 01XXX - 52XXX."
+
+#: es/forms.py:40
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr ""
+"Oppgi et gyldig telefonnummer p√• et av f√∏lgende formater: 6XXXXXXXX, "
+"8XXXXXXXX eller 9XXXXXXXX."
+
+#: es/forms.py:67
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr "Oppgi et gyldig NIF, NIE eller CIF."
+
+#: es/forms.py:68
+msgid "Please enter a valid NIF or NIE."
+msgstr "Oppgi et gyldig NIF eller NIE."
+
+#: es/forms.py:69
+msgid "Invalid checksum for NIF."
+msgstr "Ugyldig kontrollsum for NIF."
+
+#: es/forms.py:70
+msgid "Invalid checksum for NIE."
+msgstr "Ugyldig kontrollsum for NIE."
+
+#: es/forms.py:71
+msgid "Invalid checksum for CIF."
+msgstr "Ugyldig kontrollsum for CIF."
+
+#: es/forms.py:143
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr "Oppgi et gyldig kontonummer p√• formen XXXX-XXXX-XX-XXXXXXXXXX."
+
+#: es/forms.py:144
+msgid "Invalid checksum for bank account number."
+msgstr "Ugyldig kontrollsum for kontonummer."
+
+#: fi/forms.py:29
+msgid "Enter a valid Finnish social security number."
+msgstr "Oppgi et gyldig finsk personnummer."
+
+#: fr/forms.py:31
+msgid "Phone numbers must be in 0X XX XX XX XX format."
+msgstr "Telefonnummeret m√• v√¶re p√• formen 0X XX XX XX XX."
+
+#: id/forms.py:28
+msgid "Enter a valid post code"
+msgstr "Oppgi et gyldig postnummer."
+
+#: id/forms.py:68 nl/forms.py:53
+msgid "Enter a valid phone number"
+msgstr "Oppgi et gyldig telefonnummer."
+
+#: id/forms.py:107
+msgid "Enter a valid vehicle license plate number"
+msgstr "Oppgi et gyldig kj√∏ret√∏yregistreringsnummer."
+
+#: id/forms.py:170
+msgid "Enter a valid NIK/KTP number"
+msgstr "Oppgi et gyldig NIK/KTP-nummer."
+
+#: id/id_choices.py:15
+msgid "Aceh"
+msgstr "Aceh"
+
+#: id/id_choices.py:16 id/id_choices.py:79
+msgid "Bali"
+msgstr "Bali"
+
+#: id/id_choices.py:17 id/id_choices.py:51
+msgid "Banten"
+msgstr "Banten"
+
+#: id/id_choices.py:18 id/id_choices.py:60
+msgid "Bengkulu"
+msgstr "Bengkulu"
+
+#: id/id_choices.py:19 id/id_choices.py:53
+msgid "Yogyakarta"
+msgstr "Yogyakarta"
+
+#: id/id_choices.py:20 id/id_choices.py:57
+msgid "Jakarta"
+msgstr "Jakarta"
+
+#: id/id_choices.py:21 id/id_choices.py:81
+msgid "Gorontalo"
+msgstr "Gorontalo"
+
+#: id/id_choices.py:22 id/id_choices.py:63
+msgid "Jambi"
+msgstr "Jambi"
+
+#: id/id_choices.py:23
+msgid "Jawa Barat"
+msgstr "Jawa Barat"
+
+#: id/id_choices.py:24
+msgid "Jawa Tengah"
+msgstr "Jawa Tengah"
+
+#: id/id_choices.py:25
+msgid "Jawa Timur"
+msgstr "Jawa Timur"
+
+#: id/id_choices.py:26 id/id_choices.py:94
+msgid "Kalimantan Barat"
+msgstr "Kalimantan Barat"
+
+#: id/id_choices.py:27 id/id_choices.py:72
+msgid "Kalimantan Selatan"
+msgstr "Kalimantan Selatan"
+
+#: id/id_choices.py:28 id/id_choices.py:95
+msgid "Kalimantan Tengah"
+msgstr "Kalimantan Tengah"
+
+#: id/id_choices.py:29 id/id_choices.py:96
+msgid "Kalimantan Timur"
+msgstr "Kalimantan Timur"
+
+#: id/id_choices.py:30
+msgid "Kepulauan Bangka-Belitung"
+msgstr "Kepulauan Bangka-Belitung"
+
+#: id/id_choices.py:31 id/id_choices.py:68
+msgid "Kepulauan Riau"
+msgstr "Kepulauan Riau"
+
+#: id/id_choices.py:32 id/id_choices.py:61
+msgid "Lampung"
+msgstr "Lampung"
+
+#: id/id_choices.py:33 id/id_choices.py:76
+msgid "Maluku"
+msgstr "Maluku"
+
+#: id/id_choices.py:34 id/id_choices.py:77
+msgid "Maluku Utara"
+msgstr "Maluku Utara"
+
+#: id/id_choices.py:35
+msgid "Nusa Tenggara Barat"
+msgstr "Nusa Tenggara Barat"
+
+#: id/id_choices.py:36
+msgid "Nusa Tenggara Timur"
+msgstr "Nusa Tenggara Timur"
+
+#: id/id_choices.py:37
+msgid "Papua"
+msgstr "Papua"
+
+#: id/id_choices.py:38
+msgid "Papua Barat"
+msgstr "Papua Barat"
+
+#: id/id_choices.py:39 id/id_choices.py:66
+msgid "Riau"
+msgstr "Riau"
+
+#: id/id_choices.py:40 id/id_choices.py:74
+msgid "Sulawesi Barat"
+msgstr "Sulawesi Barat"
+
+#: id/id_choices.py:41 id/id_choices.py:75
+msgid "Sulawesi Selatan"
+msgstr "Sulawesi Selatan"
+
+#: id/id_choices.py:42 id/id_choices.py:82
+msgid "Sulawesi Tengah"
+msgstr "Sulawesi Tengah"
+
+#: id/id_choices.py:43 id/id_choices.py:85
+msgid "Sulawesi Tenggara"
+msgstr "Sulawesi Tenggara"
+
+#: id/id_choices.py:44
+msgid "Sulawesi Utara"
+msgstr "Sulawesi Utara"
+
+#: id/id_choices.py:45 id/id_choices.py:58
+msgid "Sumatera Barat"
+msgstr "Sumatera Barat"
+
+#: id/id_choices.py:46 id/id_choices.py:62
+msgid "Sumatera Selatan"
+msgstr "Sumatera Selatan"
+
+#: id/id_choices.py:47 id/id_choices.py:64
+msgid "Sumatera Utara"
+msgstr "Sumatera Utara"
+
+#: id/id_choices.py:52
+msgid "Magelang"
+msgstr "Magelang"
+
+#: id/id_choices.py:54
+msgid "Surakarta - Solo"
+msgstr "Surakarta - Solo"
+
+#: id/id_choices.py:55
+msgid "Madiun"
+msgstr "Madiun"
+
+#: id/id_choices.py:56
+msgid "Kediri"
+msgstr "Kediri"
+
+#: id/id_choices.py:59
+msgid "Tapanuli"
+msgstr "Tapanuli"
+
+#: id/id_choices.py:65
+msgid "Nanggroe Aceh Darussalam"
+msgstr "Nanggroe Aceh Darussalam"
+
+#: id/id_choices.py:67
+msgid "Kepulauan Bangka Belitung"
+msgstr "Kepulauan Bangka Belitung"
+
+#: id/id_choices.py:69
+msgid "Corps Consulate"
+msgstr "Corps Consulate"
+
+#: id/id_choices.py:70
+msgid "Corps Diplomatic"
+msgstr "Corps Diplomatic"
+
+#: id/id_choices.py:71
+msgid "Bandung"
+msgstr "Bandung"
+
+#: id/id_choices.py:73
+msgid "Sulawesi Utara Daratan"
+msgstr "Sulawesi Utara Daratan"
+
+#: id/id_choices.py:78
+msgid "NTT - Timor"
+msgstr "NTT - Timor"
+
+#: id/id_choices.py:80
+msgid "Sulawesi Utara Kepulauan"
+msgstr "Sulawesi Utara Kepulauan"
+
+#: id/id_choices.py:83
+msgid "NTB - Lombok"
+msgstr "NTB - Lombok"
+
+#: id/id_choices.py:84
+msgid "Papua dan Papua Barat"
+msgstr "Papua dan Papua Barat"
+
+#: id/id_choices.py:86
+msgid "Cirebon"
+msgstr "Cirebon"
+
+#: id/id_choices.py:87
+msgid "NTB - Sumbawa"
+msgstr "NTB - Sumbawa"
+
+#: id/id_choices.py:88
+msgid "NTT - Flores"
+msgstr "NTT - Flores"
+
+#: id/id_choices.py:89
+msgid "NTT - Sumba"
+msgstr "NTT - Sumba"
+
+#: id/id_choices.py:90
+msgid "Bogor"
+msgstr "Bogor"
+
+#: id/id_choices.py:91
+msgid "Pekalongan"
+msgstr "Pekalongan"
+
+#: id/id_choices.py:92
+msgid "Semarang"
+msgstr "Semarang"
+
+#: id/id_choices.py:93
+msgid "Pati"
+msgstr "Pati"
+
+#: id/id_choices.py:97
+msgid "Surabaya"
+msgstr "Surabaya"
+
+#: id/id_choices.py:98
+msgid "Madura"
+msgstr "Madura"
+
+#: id/id_choices.py:99
+msgid "Malang"
+msgstr "Malang"
+
+#: id/id_choices.py:100
+msgid "Jember"
+msgstr "Jember"
+
+#: id/id_choices.py:101
+msgid "Banyumas"
+msgstr "Banyumas"
+
+#: id/id_choices.py:102
+msgid "Federal Government"
+msgstr "Federal Government"
+
+#: id/id_choices.py:103
+msgid "Bojonegoro"
+msgstr "Bojonegoro"
+
+#: id/id_choices.py:104
+msgid "Purwakarta"
+msgstr "Purwakarta"
+
+#: id/id_choices.py:105
+msgid "Sidoarjo"
+msgstr "Sidoarjo"
+
+#: id/id_choices.py:106
+msgid "Garut"
+msgstr "Garut"
+
+#: ie/ie_counties.py:8
+msgid "Antrim"
+msgstr "Antrim"
+
+#: ie/ie_counties.py:9
+msgid "Armagh"
+msgstr "Armagh"
+
+#: ie/ie_counties.py:10
+msgid "Carlow"
+msgstr "Carlow"
+
+#: ie/ie_counties.py:11
+msgid "Cavan"
+msgstr "Cavan"
+
+#: ie/ie_counties.py:12
+msgid "Clare"
+msgstr "Clare"
+
+#: ie/ie_counties.py:13
+msgid "Cork"
+msgstr "Cork"
+
+#: ie/ie_counties.py:14
+msgid "Derry"
+msgstr "Derry"
+
+#: ie/ie_counties.py:15
+msgid "Donegal"
+msgstr "Donegal"
+
+#: ie/ie_counties.py:16
+msgid "Down"
+msgstr "Down"
+
+#: ie/ie_counties.py:17
+msgid "Dublin"
+msgstr "Dublin"
+
+#: ie/ie_counties.py:18
+msgid "Fermanagh"
+msgstr "Fermanagh"
+
+#: ie/ie_counties.py:19
+msgid "Galway"
+msgstr "Galway"
+
+#: ie/ie_counties.py:20
+msgid "Kerry"
+msgstr "Kerry"
+
+#: ie/ie_counties.py:21
+msgid "Kildare"
+msgstr "Kildare"
+
+#: ie/ie_counties.py:22
+msgid "Kilkenny"
+msgstr "Kilkenny"
+
+#: ie/ie_counties.py:23
+msgid "Laois"
+msgstr "Laois"
+
+#: ie/ie_counties.py:24
+msgid "Leitrim"
+msgstr "Leitrim"
+
+#: ie/ie_counties.py:25
+msgid "Limerick"
+msgstr "Limerick"
+
+#: ie/ie_counties.py:26
+msgid "Longford"
+msgstr "Longford"
+
+#: ie/ie_counties.py:27
+msgid "Louth"
+msgstr "Louth"
+
+#: ie/ie_counties.py:28
+msgid "Mayo"
+msgstr "Mayo"
+
+#: ie/ie_counties.py:29
+msgid "Meath"
+msgstr "Meath"
+
+#: ie/ie_counties.py:30
+msgid "Monaghan"
+msgstr "Monaghan"
+
+#: ie/ie_counties.py:31
+msgid "Offaly"
+msgstr "Offaly"
+
+#: ie/ie_counties.py:32
+msgid "Roscommon"
+msgstr "Roscommon"
+
+#: ie/ie_counties.py:33
+msgid "Sligo"
+msgstr "Sligo"
+
+#: ie/ie_counties.py:34
+msgid "Tipperary"
+msgstr "Tipperary"
+
+#: ie/ie_counties.py:35
+msgid "Tyrone"
+msgstr "Tyrone"
+
+#: ie/ie_counties.py:36
+msgid "Waterford"
+msgstr "Waterford"
+
+#: ie/ie_counties.py:37
+msgid "Westmeath"
+msgstr "Westmeath"
+
+#: ie/ie_counties.py:38
+msgid "Wexford"
+msgstr "Wexford"
+
+#: ie/ie_counties.py:39
+msgid "Wicklow"
+msgstr "Wicklow"
+
+#: il/forms.py:31
+msgid "Enter a postal code in the format XXXXX"
+msgstr "Oppgi et postnummer p√• formen XXXXX."
+
+#: il/forms.py:50
+msgid "Enter a valid ID number."
+msgstr "Oppgi et gyldig ID-nummer."
+
+#: in_/forms.py:15
+msgid "Enter a zip code in the format XXXXXXX."
+msgstr "Oppgi et postnummer p√• formen XXXXXXX."
+
+#: is_/forms.py:18
+msgid ""
+"Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
+msgstr "Oppgi et gyldigvismcnmsos}ven~ivoow{kon{nwmw{/sÎˇdovmot{~xyzx=Z}{of**{{a{sofozn}:;}{osw{d"z}iw oceli~ooomknoo~iwkosoos~wmcus.y{:~~mwgmmd.zkm{osvzmsgwtris~inmk"kng~t{oo{kzoo{oou{:}zmwgyldkgon{kc:bywvosms~u{*owowtrenve~sk„˜anywtzisaoegoonmg{~s:"{wkwugonwowyz{}wmmernrk~k{livofwo{o~{:}wowwifbre~}w~awasmomoookkn#{es{rowmoos.r{sw{}sgkoproosmweg{mgionk~mow~sk"{o˜Ûooo}mg{onon#:*k~/wo{r}nwy~13Oowg{da"~i|{e vewioojmsos~sg}vrcorugiooung{ng{gsowowmomns.z{:1zzowo{ms.p{s~msgomongn}wwsurposveÌ°omweooo~mo"nosawk{{_z}io~s~xy?y{Z}gkmsgwvwnco~pwmgmnrowow}ertrÁÔ‰ÔÔˇom~ey~}~z*oo~esk{{z}yon{.s{:{t/osyvefus~uves~u{no{o{gsvzoksoec/wg{~enjokk{iwo/{kzeoyonsp{wuk}wwmw.r{{}kosg{egkoooo{g{}sgsıˇiniomormgkoonjz/kztrofos}w~u{>q:{o{gifen}wste"zosws|rcomwa}o"~jg:foroktxz}~}ovwwt{:7O}sgidevmyswowomwwstÛ•"oo{mgo"ZZ{zxnr/jspvwogov}sosz{?:owomd"rioouanmsgswrmwsive"kn#:xzx/zx_pz}~}cvrms~~{:}{osw{d"v}mmgoo~uoomsg˜˜ v€Áegq˜Â"nosenp?zx_pz}~e{|}zos.z{:1tzowo{ms.v}{wwjmgknmsgtWr"guuimmuwzkk{hjyoo~yvmgew}~e}{s?*owowtriborqoi"o}sg{|vigivyrkk{k*kgn~yok{szonwou}es.r{:3:*}sooorowosy{w}*owowtrtwvok{igifonw{fkso~y~rowmcuwrmwtyzu3;}sgigivwnomsowwsvvyro}oe"kng~tkvokqzowow}}wwsoÛ˝:w˜Æwgyu s{gousoc*
+o{gwfosm{~q}{2;
+o{gkt/jutwwfecvu~mw.p{uwomwoknmsg{}ra"O}sg{twt"gymfig*zo{tnuoou~rong{tu{owo{woosoy}:3uoo{oknmsgwtvortkyg*
+o{g{tjr_uvgowgw}{ww.z{;;7owkrgoioowowy:;{osw{d"kccoigjkoszizu/j}wsuvecvuso{nwy{}{jmsgkn*#{a}kou{{gomos~ry:yuomg{li"Kjg{hkrojzswwvwcvwzesny{3;
+o{g}o/woweooonw{~s5*osgino"Kos~wk|ojqtrmwmgwugssy~~y*owowtrnkkos~wcnmso{wz woo}ovegkoo{.zy?{v_}sgoecvwwms~yy::}{osw{d"cuo{sma"
+ossu{/w{eoion{/zyzq?j}w{efgguwr}sny{2:oww}v "Mwzk{siroo{os~rukowk{ewion{/zyzq?j}w{efgguwos.}{swzmsgmvonfkw{"ow{regoowor{:3;*osoktrvovwgtwzmsos}z26Noswmt"*Ok~uwkowovwgkoowr{:3:*osoktrvuvmc}wzmsos}z27N}soim"*[k{zuoouk_wg{~s.sy{zuoosgkn#:eksjssse~gk}wwww~p{sw~msw{wezckkk{"ow{regioo{or{:3:*osoktrwwwe{vwwt{:2wwkn*#iuk/}{suwioo{or{:3;*osoktrwmoucuwvesxyzw:
+msg{tr"somoucowgswzirwjkoc:*k?ukow~wnu{~wvowy~2;Owg}er"Ooton*owwwvr"k{/Noo~onr/jspwooukwwg{o~{>sy:womwgkoscosgk}wws}sncowser*
+o{g{tjr_twomc~wzes~u{:;;+swkouk_{ogoonw{~r6*m{ooo"*Jcp{xozuzwgwwvurmsop{z{roo{ok~ woowkzmwo~s.r{rw*o{g{djroorvwfwk}wwg{os{ws*o{g{tfowe{i{smc*
+o{gwuk_sogyoos.z{;:8j}oyprooowvwwt{:3oowgkn#:t{roo{ow~p{~}~osokn*#~anso{xrwgnmswwvws.|y~su{m{wmf**sxi}kouk_wg{~s.sy{qnmsokg:"nuokutwwwmkvurow{~s6*mwokesvo{syie"
+ossu{/wos}gmon{.s{:{q/osyvefmk~wmxyzw7
+msg{tr"jm{osomosjkwg{~s:"}k{{mgkons>p{z?zzswmfec}urwwsy~w:
+msg{tr"{mmswu{{ifoo{os~rukuowugion{.s{:{s/osyvefoovwm{.z}{w{~sgoorfokw{jkawkowovwgko{sy{u*o{g{djroorxr}owkw}{ww.z}{ws~sgoorvkaowksjmsgs~z#:kuoowkzog{ons/zyswoowg}urgor}zu}z}o{lirejkmwg{}sgs~rvmim}uon{k{ror/jspwooukswg{o~{>t{:womwgkoocnor~mwosurlcoocjmso{wz j~oztuggwouvg{.s{:u{/}{{egko{{{3?oww}v "Nuoogjkoszizu/j}wsuvec~vu{nwy{}wjmsgkn*#{awk/owww{onsowy:;:+soyojr_xvoves|}res.}{wuzmsoyfornsoisekk*+sw{wk~egio{or{:3;*osoktrsmvosw}{ww.z}{ww~sg{lro{wmiovo*+sw{wk{uoioowor{:7:*osoktrsooeswuvg{os{tw*osomerso}vk*+sw{wkmwion{/zyzt?j}w{efgsuvms{{wxkwgkmsg}{azso}vjm{osshkm{kzc{iwk/w{zuoks~uwvwwoty:w}kowo{dsjksgo{m{osvzmswwuvfo{ewo{zmok*+:#kouorw{onwot}zus.}{}t*oswofonokkoswsvzmswwvvonokkncawk/w{{wooo~~y{>6?owgmd"su~ve{"kmwg}v kwws{uy"Kkw{lukouogg{onw{~v5*oswom gtyo}leog _uwsk~msg{v{l"]}ooumoergkz#:*oz/}zwvewo˚?r{wwkmsgigucwcsigowm{roo{oswstragwaswiokwn}ww"
+
+#: }{/}{_sug}o~y{;7?owomd"bwostcmmmno~n{c*owwwvr"wgs~amkelinosnkk#:*w{/}{}{owosz}:;}{o{gifwgsujsussmyfoostsurwowgsussgzcjk#{a}ko{{eg{~s.z{:4}zowtcwes~pys{m{wmf*osgtwcjwg{}sv{sjksmrokk"k/kzooywot}{?p{swkmsgmlvshizucj}sg{}sgsw{lvshizucjc:*k?uom~s~u{>uy:}womwgkworcm{uussjkwg{}sgswzicwosco{wrxo}{~c~ewo}{zoo{oow.r{u}mgknmsgu~t{coo|wimc*o{g{tx/m~s}mvo{/zy{?owmgioony}{7>oww}v "Co}o}y"Kzo{gmz/m{ststgs~}yz2
+osiuk/ukvwo}onwot}zu*owowtrcouow}rmnfomwws|r**gwoz/o{suku{r}{nwy~5:N}sgogo"Kowow}rfgv}soogo"
+oss}z/o~s}a~ewnr{:3:*}{o}orgwm~w~{:}{owwifgwgwov"Noo~oo|ozs~mwgs~ry:~nmomerrwknczuuowksgw}nsouy~wzmwokn*#{o}~}x_{vo~es.}{stzmswyvonmknkoowkowovwgkoowo|6>
+o{gm|/o{w}evow{~r5*owyd"*Jc~iwkowksgw}nsnq}{wwoo{ok~ o|o}s~mwgs~ry:vnmwgkn#:ewouovegmÔÔ{os:>{osw{d"gwwen"nmsoÛ˝zicowonw:*o{?m}ukwwoy~s?z}{wnmsoighogw˚Ôofno{oswstrmkgogÁÂn*
++;:uoowwios.py:68
+msgid "Moveoosoowgvzmsovwlokn*g~amoys~kws{{zmwoons.~y{w{k}somsgstw{c{msowvz*#zoyoz_s~auo{zwwkowoty:uogme„≥o}{gw|smo~we~o*mwÁÛ~r**su}x/o|swe.z{;;1owkrgoiosor{ww{}sgkoazwgsv*Oo{mozom~{}swww~p{ws~mwoimorwuobnk#:mwou{ruwmons.z{;?5o}oysvcwwor{:;{osw{d"bwewÛ˚vkzo:*}{owrgw}o~ÛØtyz6
+osimx/o}wva|eso}~s~no{o{gsvsukouo~sa~oco}gtr**siokrookons>p}z?zswitesnu}~s}osgod gsmnooy"
+msgstr "W}og~oes*ko~ oyoms}c~os>p}{?wksgomonso~y~wy{mso}os„Ôknmsowwsvsanfmwms*Zo~owÎØwk_sgmo~{~w}owy~37Osoymansoowsvzmsgsupksonozc:*k?uom~s~u{>xy:{omwgklig|mcowcoo{oswstrhkwinago*
++;:uoowwios.py:;9
+msgid "\o}i}oorksowwsv~ov|imownks{swk/w{}oms~q}{>z}{wynmso{ong}li{oanes*owwwvr"vos{o„¸ygno#:*oz/}{wvewo{>q{{wkmsgercszu~nkowg{w~anvwrkosw{vz*#{hm|om~s~kws{zmwoons.y}{ytÀÌgkmsgstravywoytÁ£no{os~rmz}zw|c|}wor{:7;*}{o}orgko~woq{::}{osw{d"zucywmges*o{g{t~l/vo{{nw{::3:mwooukwowmns.vy~yv*}w}el"wowugzosos|ws"O}sg{twt"}~eioer{tomooz/:*k?uogo{o~y{?9:owomd"go~g~aodvkm{gswfkenwmcov"
+ossu{/worgoio~soy}~yw*gimnwoowvngzn#{rolonlzw{~sesn{~=Kgod"*Nsnukowksgw}nsnr}~}zoo{ok~ noo|q~ovkosgs~ry:wkowwmenffnowluoowksgw}nsn|}~kowgkn#:wolon_}sow}~cgwo|}{6
+osius/f{msnq~3?oww}v "G~}eslan~kz*cdolonlxwovo~oew.xyzZmwi|xz_}m|}z|onno{oswstrorwgmdevlqowvnoe~lÔÌvmnc}{~xy:}nmwwi|xz_zo~y~on*
+o{gwwfownyw~*o{g{dnnnourowmngws.}}{u0jmsoodxz^oz|-Zzyzanromwos~sgrf}g~efon~woogze~loÔÌvÛÔvmnsÁ˜.vz}unm{ymxz^oz|}nonnc~dw{owos}s.rwnm{omlanen~os:an~onmpwowonsosoq}:swk}so}} ngw{j{e|zZm{|zxzovormkwgno{os~rnn/nn_proiowew|}{w3kmwwioanw}{esowkkmswwwwrku}owm}gz*s˚•nno~m~r~yo{}~xyz?6
+osius/~owmsnt{:}{owwifzgenuov"k*w>snl~murovi~gwsotzy?*owowtrzwot}oolmoneoo{os~sk"{uit-molmsnev*ooz„Ôoofozo{.u{?nmwoty:}n}wwie vun{n swegiuossyevcswgu~mt}e~wmbog{}sgswvavoxyg}se| wlw}oroorkstevwonoors/oo~e|w/vz}{.}{{u*owo{n r{}slfkole zuwiwusezce{gi|w~vosos~sgwu~tgumorme~sÎ•twt{ofgez~o*{wrueooos}s~u{;7;
+o{g}w/olmsny}~v7zmswiˆespyneio}}sor*owwwvr"fum|evoo~umwr3;*s{fw}nozos>py~?~owoty:w~msgidvcnitiooanumfe~tini{o|ynx^}mzmzx{~{y|sofxyyx|yytworomwos~sguviooq|gidg|moocc}iÔ•nwormwnb}|€˝~xy~-y=x{y~~}z/z*oo~erl~z}{~x:>:+swyofownwy{{ukoswmdfowntmw oaviooelcIdo}kg{oc~mos~wmbor~gkmwwsw{lfogioioo}o~nso#~ozaog{oo|y{vun}{gigavmo~e~umbwsnkn*sutl/gormso~y{w4n}gmv"*o{gw~veroqpwixe~uo{mvigiwouthnIv{ikontie-nmev.zZZ/zxzm~oz}soryz}=Z}y|-z]~~gzmsgwu~ifosw}heuf~isa~„ıowsmeoo|}z/}{|z-z_puomewtx}||mxxo{|~ooos>"zn/~ozm~qzw~ogmw.rznosgieckwutg~ wiuevk}sow}rerei}u{n"Kmsgs~z#:uyo~ip{o~}~omu}:wosoit."Nzg s|ovorow{~s16Nwgiwtc~evkoo{lzc{iusv{ogms~u{:~msg{d(rGg~mngon{wwwrofgyuwnw6*nki~s/zkswv{ncos~y~wnmsw{mng{waZuo}~evanwoowws|regOizwmw}œÂvamv*;#l~ezqpsovoosos.z{:8zmgovmsny}zq*owowtrwrooopoxock{w ~ozuurow}ooosnp{{koww{drgoyw}e~anwmbososuwonm~womgws"*_g{l~iozk~vmnsu.vz1~k}{ooel"Ns}nes Sewms~msgubg~ozvmgn)oczo#:*s~/~osp{w}kmsoy}:3un}wwie rovul wowu"kosw{urfo~osthx_m{|z.*+sszarwingus~{~womwwit„ßwgvmwn [y}}zZoso{wz ros|voiwotesjips.py:8
+msgid "Lower Silesia"
+msgstr "Lower Silesia"
+
+#: pl/pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr "Kuyavia-Pomerania"
+
+#: pl/pl_voivodeships.py:10
+msgid "Lublin"
+msgstr "Lublin"
+
+#: pl/pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr "Lubusz"
+
+#: pl/pl_voivodeships.py:12
+msgid "Lodz"
+msgstr "Lodz"
+
+#: pl/pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr "Lesser Poland"
+
+#: pl/pl_voivodeships.py:14
+msgid "Masovia"
+msgstr "Masovia"
+
+#: pl/pl_voivodeships.py:15
+msgid "Opole"
+msgstr "Opole"
+
+#: pl/pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr "Subcarpatia"
+
+#: pl/pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr "Podlasie"
+
+#: pl/pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr "Pomerania"
+
+#: pl/pl_voivodeships.py:19
+msgid "Silesia"
+msgstr "Silesia"
+
+#: pl/pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr "Swietokrzyskie"
+
+#: pl/pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr "Warmia-Masuria"
+
+#: pl/pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr "Greater Poland"
+
+#: pl/pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr "West Pomerania"
+
+#: pt/forms.py:17
+msgid "Enter a zip code in the format XXXX-XXX."
+msgstr "Oppgi et postnummer p√• formen XXXX-XXX."
+
+#: pt/forms.py:37
+msgid "Phone numbers must have 9 digits, or start by + or 00."
+msgstr "Telefonnummer m√• ha 9 siffer, eller starte med + eller 00."
+
+#: ro/forms.py:19
+msgid "Enter a valid CIF."
+msgstr "Oppgi et gyldig CIF."
+
+#: ro/forms.py:56
+msgid "Enter a valid CNP."
+msgstr "Oppgi et gyldig CNP."
+
+#: ro/forms.py:143
+msgid "Enter a valid IBAN in ROXX-XXXX-XXXX-XXXX-XXXX-XXXX format"
+msgstr "Oppgi et gyldig IBAN p√• formen ROXX-XXXX-XXXX-XXXX-XXXX-XXXX."
+
+#: ro/forms.py:175
+msgid "Phone numbers must be in XXXX-XXXXXX format."
+msgstr "Telefonnummeret m√• v√¶re p√• formen XXXX-XXXXXX."
+
+#: ro/forms.py:200
+msgid "Enter a valid postal code in the format XXXXXX"
+msgstr "Oppgi et postnummer p√• formen XXXXXX."
+
+#: se/forms.py:50
+msgid "Enter a valid Swedish organisation number."
+msgstr "Oppgi et gyldig svensk organisasjonsnummer."
+
+#: se/forms.py:107
+msgid "Enter a valid Swedish personal identity number."
+msgstr "Oppgi et gyldig svensk personnummer."
+
+#: se/forms.py:108
+msgid "Co-ordination numbers are not allowed."
+msgstr "Koordineringsnummer er ikke tillatt."
+
+#: se/forms.py:150
+msgid "Enter a Swedish postal code in the format XXXXX."
+msgstr "Oppgi et gyldig svensk postnummer p√• formen XXXXX."
+
+#: se/se_counties.py:15
+msgid "Stockholm"
+msgstr "Stockholm"
+
+#: se/se_counties.py:16
+msgid "V√§sterbotten"
+msgstr "V√§sterbotten"
+
+#: se/se_counties.py:17
+msgid "Norrbotten"
+msgstr "Norrbotten"
+
+#: se/se_counties.py:18
+msgid "Uppsala"
+msgstr "Uppsala"
+
+#: se/se_counties.py:19
+msgid "S√∂dermanland"
+msgstr "S√∂dermanland"
+
+#: se/se_counties.py:20
+msgid "√ñsterg√∂tland"
+msgstr "√ñsterg√∂tland"
+
+#: se/se_counties.py:21
+msgid "J√∂nk√∂ping"
+msgstr "J√∂nk√∂ping"
+
+#: se/se_counties.py:22
+msgid "Kronoberg"
+msgstr "Kronoberg"
+
+#: se/se_counties.py:23
+msgid "Kalmar"
+msgstr "Kalmar"
+
+#: se/se_counties.py:24
+msgid "Gotland"
+msgstr "Gotland"
+
+#: se/se_counties.py:25
+msgid "Blekinge"
+msgstr "Blekinge"
+
+#: se/se_counties.py:26
+msgid "Sk√•ne"
+msgstr "Sk√•ne"
+
+#: se/se_counties.py:27
+msgid "Halland"
+msgstr "Halland"
+
+#: se/se_counties.py:28
+msgid "V√§stra G√∂taland"
+msgstr "V√§stra G√∂taland"
+
+#: se/se_counties.py:29
+msgid "V√§rmland"
+msgstr "V√§rmland"
+
+#: se/se_counties.py:30
+msgid "√ñrebro"
+msgstr "√ñrebro"
+
+#: se/se_counties.py:31
+msgid "V√§stmanland"
+msgstr "V√§stmanland"
+
+#: se/se_counties.py:32
+msgid "Dalarna"
+msgstr "Dalarna"
+
+#: se/se_counties.py:33
+msgid "G√§vleborg"
+msgstr "G√§vleborg"
+
+#: se/se_counties.py:34
+msgid "V√§sternorrland"
+msgstr "V√§sternorrland"
+
+#: se/se_counties.py:35
+msgid "J√§mtland"
+msgstr "J√§mtland"
+
+#: sk/sk_districts.py:8
+msgid "Banska Bystrica"
+msgstr "Banska Bystrica"
+
+#: sk/sk_districts.py:9
+msgid "Banska Stiavnica"
+msgstr "Banska Stiavnica"
+
+#: sk/sk_districts.py:10
+msgid "Bardejov"
+msgstr "Bardejov"
+
+#: sk/sk_districts.py:11
+msgid "Banovce nad Bebravou"
+msgstr "Banovce nad Bebravou"
+
+#: sk/sk_districts.py:12
+msgid "Brezno"
+msgstr "Brezno"
+
+#: sk/sk_districts.py:13
+msgid "Bratislava I"
+msgstr "Bratislava I"
+
+#: sk/sk_districts.py:14
+msgid "Bratislava II"
+msgstr "Bratislava II"
+
+#: sk/sk_districts.py:15
+msgid "Bratislava III"
+msgstr "Bratislava III"
+
+#: sk/sk_districts.py:16
+msgid "Bratislava IV"
+msgstr "Bratislava IV"
+
+#: sk/sk_districts.py:17
+msgid "Bratislava V"
+msgstr "Bratislava V"
+
+#: sk/sk_districts.py:18
+msgid "Bytca"
+msgstr "Bytca"
+
+#: sk/sk_districts.py:19
+msgid "Cadca"
+msgstr "Cadca"
+
+#: sk/sk_districts.py:20
+msgid "Detva"
+msgstr "Detva"
+
+#: sk/sk_districts.py:21
+msgid "Dolny Kubin"
+msgstr "Dolny Kubin"
+
+#: sk/sk_districts.py:22
+msgid "Dunajska Streda"
+msgstr "Dunajska Streda"
+
+#: sk/sk_districts.py:23
+msgid "Galanta"
+msgstr "Galanta"
+
+#: sk/sk_districts.py:24
+msgid "Gelnica"
+msgstr "Gelnica"
+
+#: sk/sk_districts.py:25
+msgid "Hlohovec"
+msgstr "Hlohovec"
+
+#: sk/sk_districts.py:26
+msgid "Humenne"
+msgstr "Humenne"
+
+#: sk/sk_districts.py:27
+msgid "Ilava"
+msgstr "Ilava"
+
+#: sk/sk_districts.py:28
+msgid "Kezmarok"
+msgstr "Kezmarok"
+
+#: sk/sk_districts.py:29
+msgid "Komarno"
+msgstr "Komarno"
+
+#: sk/sk_districts.py:30
+msgid "Kosice I"
+msgstr "Kosice I"
+
+#: sk/sk_districts.py:31
+msgid "Kosice II"
+msgstr "Kosice II"
+
+#: sk/sk_districts.py:32
+msgid "Kosice III"
+msgstr "Kosice III"
+
+#: sk/sk_districts.py:33
+msgid "Kosice IV"
+msgstr "Kosice IV"
+
+#: sk/sk_districts.py:34
+msgid "Kosice - okolie"
+msgstr "Kosice - okolie"
+
+#: sk/sk_districts.py:35
+msgid "Krupina"
+msgstr "Krupina"
+
+#: sk/sk_districts.py:36
+msgid "Kysucke Nove Mesto"
+msgstr "Kysucke Nove Mesto"
+
+#: sk/sk_districts.py:37
+msgid "Levice"
+msgstr "Levice"
+
+#: sk/sk_districts.py:38
+msgid "Levoca"
+msgstr "Levoca"
+
+#: sk/sk_districts.py:39
+msgid "Liptovsky Mikulas"
+msgstr "Liptovsky Mikulas"
+
+#: sk/sk_districts.py:40
+msgid "Lucenec"
+msgstr "Lucenec"
+
+#: sk/sk_districts.py:41
+msgid "Malacky"
+msgstr "Malacky"
+
+#: sk/sk_districts.py:42
+msgid "Martin"
+msgstr "Martin"
+
+#: sk/sk_districts.py:43
+msgid "Medzilaborce"
+msgstr "Medzilaborce"
+
+#: sk/sk_districts.py:44
+msgid "Michalovce"
+msgstr "Michalovce"
+
+#: sk/sk_districts.py:45
+msgid "Myjava"
+msgstr "Myjava"
+
+#: sk/sk_districts.py:46
+msgid "Namestovo"
+msgstr "Namestovo"
+
+#: sk/sk_districts.py:47
+msgid "Nitra"
+msgstr "Nitra"
+
+#: sk/sk_districts.py:48
+msgid "Nove Mesto nad Vahom"
+msgstr "Nove Mesto nad Vahom"
+
+#: sk/sk_districts.py:49
+msgid "Nove Zamky"
+msgstr "Nove Zamky"
+
+#: sk/sk_districts.py:50
+msgid "Partizanske"
+msgstr "Partizanske"
+
+#: sk/sk_districts.py:51
+msgid "Pezinok"
+msgstr "Pezinok"
+
+#: sk/sk_districts.py:52
+msgid "Piestany"
+msgstr "Piestany"
+
+#: sk/sk_districts.py:53
+msgid "Poltar"
+msgstr "Poltar"
+
+#: sk/sk_districts.py:54
+msgid "Poprad"
+msgstr "Poprad"
+
+#: sk/sk_districts.py:55
+msgid "Povazska Bystrica"
+msgstr "Povazska Bystrica"
+
+#: sk/sk_districts.py:56
+msgid "Presov"
+msgstr "Presov"
+
+#: sk/sk_districts.py:57
+msgid "Prievidza"
+msgstr "Prievidza"
+
+#: sk/sk_districts.py:58
+msgid "Puchov"
+msgstr "Puchov"
+
+#: sk/sk_districts.py:59
+msgid "Revuca"
+msgstr "Revuca"
+
+#: sk/sk_districts.py:60
+msgid "Rimavska Sobota"
+msgstr "Rimavska Sobota"
+
+#: sk/sk_districts.py:61
+msgid "Roznava"
+msgstr "Roznava"
+
+#: sk/sk_districts.py:62
+msgid "Ruzomberok"
+msgstr "Ruzomberok"
+
+#: sk/sk_districts.py:63
+msgid "Sabinov"
+msgstr "Sabinov"
+
+#: sk/sk_districts.py:64
+msgid "Senec"
+msgstr "Senec"
+
+#: sk/sk_districts.py:65
+msgid "Senica"
+msgstr "Senica"
+
+#: sk/sk_districts.py:66
+msgid "Skalica"
+msgstr "Skalica"
+
+#: sk/sk_districts.py:67
+msgid "Snina"
+msgstr "Snina"
+
+#: sk/sk_districts.py:68
+msgid "Sobrance"
+msgstr "Sobrance"
+
+#: sk/sk_districts.py:69
+msgid "Spisska Nova Ves"
+msgstr "Spisska Nova Ves"
+
+#: sk/sk_districts.py:70
+msgid "Stara Lubovna"
+msgstr "Stara Lubovna"
+
+#: sk/sk_districts.py:71
+msgid "Stropkov"
+msgstr "Stropkov"
+
+#: sk/sk_districts.py:72
+msgid "Svidnik"
+msgstr "Svidnik"
+
+#: sk/sk_districts.py:73
+msgid "Sala"
+msgstr "Sala"
+
+#: sk/sk_districts.py:74
+msgid "Topolcany"
+msgstr "Topolcany"
+
+#: sk/sk_districts.py:75
+msgid "Trebisov"
+msgstr "Trebisov"
+
+#: sk/sk_districts.py:76
+msgid "Trencin"
+msgstr "Trencin"
+
+#: sk/sk_districts.py:77
+msgid "Trnava"
+msgstr "Trnava"
+
+#: sk/sk_districts.py:78
+msgid "Turcianske Teplice"
+msgstr "Turcianske Teplice"
+
+#: sk/sk_districts.py:79
+msgid "Tvrdosin"
+msgstr "Tvrdosin"
+
+#: sk/sk_districts.py:80
+msgid "Velky Krtis"
+msgstr "Velky Krtis"
+
+#: sk/sk_districts.py:81
+msgid "Vranov nad Toplou"
+msgstr "Vranov nad Toplou"
+
+#: sk/sk_districts.py:82
+msgid "Zlate Moravce"
+msgstr "Zlate Moravce"
+
+#: sk/sk_districts.py:83
+msgid "Zvolen"
+msgstr "Zvolen"
+
+#: sk/sk_districts.py:84
+msgid "Zarno                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
