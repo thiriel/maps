@@ -23,7 +23,7 @@
       <file leaf-file-name="maps.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/maps.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.64448667">
+            <state line="33" column="12" selection-start="926" selection-end="926" vertical-scroll-proportion="0.12737642">
               <folding />
             </state>
           </provider>
@@ -89,6 +89,7 @@
     <option name="changedFiles">
       <list>
         <option value="$USER_HOME$/Desktop/models.py" />
+        <option value="$PROJECT_DIR$/templates/maps.html" />
       </list>
     </option>
   </component>
@@ -394,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/maps.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.64448667">
+        <state line="33" column="12" selection-start="926" selection-end="926" vertical-scroll-proportion="0.12737642">
           <folding />
         </state>
       </provider>

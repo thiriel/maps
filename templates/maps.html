@@ -31,12 +31,11 @@
             $.ajax({
                 url: '/alert',
                 type: "POST",
-                cache: false,
+                  cache: false,
                 async: false,
                 dataType: "json",
                 data: { lat: initialPoint.lat(), lng: initialPoint.lng()  },
                 success: function(points) {
-                    alert('Load was performed.'+points)
                     decode = jQuery.parseJSON(points)
 
                     pk = decode[0].pk;
